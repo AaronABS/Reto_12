@@ -30,3 +30,5 @@ Devuelve True si todos los alfabetos de una cadena son alfabetos en minúsculas.
 ### isupper
 Devuelve si todos los caracteres de una cadena están en mayúsculas o no.
 
+## Punto 2.
+
